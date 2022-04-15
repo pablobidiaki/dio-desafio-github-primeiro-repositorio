@@ -11,4 +11,4 @@
 -git status- ira dizer se tem algo de diferente no clone feito anteriormente
 -git add . - ira confirmar as mudanças feitas dentro do clone porem apenas na maquina pessoal 
 -git commit -m "mensagem"- cria um commit para o arquivo que foi alterado
--git pish origin main- vai enviar todos os commits para o github
+-git push main - vai enviar todos os commits para o github 
