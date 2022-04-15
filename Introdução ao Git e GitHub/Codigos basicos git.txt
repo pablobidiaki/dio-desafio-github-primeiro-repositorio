@@ -5,4 +5,10 @@
 -del/rmdir- Deleta pastas 
 -tab(tecla)- auto completa a palavra 
 -ctrl+l- limpa a tela
--seta para cima- volta para comandos ja digitados anteriormente 
+-seta para cima- volta para comandos ja digitados anteriormente
+-openssl sha1 "arquivo.txt"- mostra o codigo sha do arquivo que foi digitado entre as aspas
+-git clone- clona um  repositorio retirado do github (colocar o link apos o comando)
+-git status- ira dizer se tem algo de diferente no clone feito anteriormente
+-git add . - ira confirmar as mudanças feitas dentro do clone porem apenas na maquina pessoal 
+-git commit -m "mensagem"- cria um commit para o arquivo que foi alterado
+-git pish origin main- vai enviar todos os commits para o github
