@@ -1,0 +1,8 @@
+-cd- Ver pastas expecificas 
+-cd..- Volta para pasta anterior
+-dir- Ver todas as pastas no Computador 
+-mkdir- Criar uma nova pasta 
+-del/rmdir- Deleta pastas 
+-tab(tecla)- auto completa a palavra 
+-ctrl+l- limpa a tela
+-seta para cima- volta para comandos ja digitados anteriormente 
